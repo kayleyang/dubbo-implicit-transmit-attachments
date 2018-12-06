@@ -1,0 +1,2 @@
+rbacSetDomain=com.chtwm.dubbo.dubbo.filter.RbacSetDomainFilter
+rbacGetDomain=com.chtwm.dubbo.dubbo.filter.RbacGetDomainFilter

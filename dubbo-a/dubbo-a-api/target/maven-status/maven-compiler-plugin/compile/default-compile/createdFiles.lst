@@ -1,0 +1,4 @@
+com\chtwm\dubbo\dubbo\filter\RbacGetDomainFilter.class
+com\chtwm\dubbo\dubbo\filter\RbacSetDomainFilter.class
+com\chtwm\dubbo\dubbo\loadblance\RbacLoadBalance.class
+com\chtwm\dubbo\service\UserService.class
